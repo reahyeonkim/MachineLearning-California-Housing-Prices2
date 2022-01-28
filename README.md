@@ -1,1 +1,1 @@
-# MachineLearning-California-Housing-Prices2
+# MachineLearning-California-Housing-Prices
